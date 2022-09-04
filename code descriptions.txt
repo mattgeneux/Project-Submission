@@ -1,0 +1,6 @@
+data_processing_v2.ipynb - processes the raw chat data to lemmatised form for lda
+LDAs.ipynb - trains and fits the 4 topic models using lemmatised data 
+Stream_selection.ipynb - chooses the streams to be fitted to the topic model to plot the topic percentages
+data analyis and visualisation.ipynb - creates all the plots seen in the report, performs statistical calculations 
+
+lemmatisation_tools.py - from the TwitchChat paper, used for lemmatisation in data_processing_v2.ipynb
